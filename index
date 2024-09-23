@@ -1,3 +1,4 @@
+# to print each and every element
 a =[36,['123','java',('python','sql','mern',[100]),False,'hello'],True,420]
 print(a[0])
 print(a[1][0][0])
